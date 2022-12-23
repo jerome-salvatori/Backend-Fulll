@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo $@
+php src/Script/Fleet.php $@
